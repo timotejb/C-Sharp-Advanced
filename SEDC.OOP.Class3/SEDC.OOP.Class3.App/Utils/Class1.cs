@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace SEDC.OOP.Class3.App
+﻿namespace SEDC.OOP.Class3.App
 {
     public static class Class1
     {
@@ -17,5 +13,5 @@ namespace SEDC.OOP.Class3.App
             return firstNumber + secondNumber;
         }
     }
-  
+
 }
