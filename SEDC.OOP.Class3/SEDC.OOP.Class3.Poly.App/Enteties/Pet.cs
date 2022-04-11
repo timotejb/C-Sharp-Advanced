@@ -11,9 +11,6 @@ namespace SEDC.OOP.Class3.Poly.App.Enteties
         {
             Name = name;
         }
-        public abstract void Eat()
-        {
-
-        }
+        public abstract void Eat();
     }
 }
